@@ -1,1 +1,2 @@
-# productsearch-2.0
+# Product Search 2.0
+
